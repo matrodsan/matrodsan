@@ -11,6 +11,6 @@
 
 ##
 <div style="display: inline_block">
-  <a href="https://api.whatsapp.com/send?phone=5527998175043" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5527998175043" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a>
   <a href="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=Behance&logoColor=white" target="_blank" /></a>
 </div>
