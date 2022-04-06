@@ -41,4 +41,5 @@
   <a href="https://www.instagram.com/mateusrsantos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mateus-rodrigues-santos-65274594/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:mateusrodriguessantos@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /></a>
+  <a href="https://www.behance.net/mateusrodrigu5"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white" /></a>
 </div>
