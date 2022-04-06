@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Django
 
 <div style="display: inline_block; vertical-align: top;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=5CDB0B&title_color=66fc03&bg_color=DEG,191c21,333B44&custom_title=My%20contribuitions" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000&custom_title=My%20contribuitions" />
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=matrodsan&show_owner=true&theme=chartreuse-dark&icon_color=5CDB0B&title_color=66fc03&bg_color=DEG,191c21,333B44" />-->
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=66fc03&title_color=66fc03&bg_color=191c21)-->
