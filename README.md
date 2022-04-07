@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning Django
 
 <div style="display: inline_block; vertical-align: top;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000&custom_title=My%20contribuitions" />
+  <a href="#">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000&custom_title=My%20contribuitions" />
+  </a>
   <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=matrodsan&show_owner=true&theme=chartreuse-dark&icon_color=5CDB0B&title_color=66fc03&bg_color=DEG,191c21,333B44" />-->
 </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=66fc03&title_color=66fc03&bg_color=191c21)-->
@@ -12,26 +14,30 @@
 ### My habilities
 
 <div style="display: inline_block; background-color:DodgerBlue;">
-  <img align="center" alt="Mateus_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Mateus_CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Mateus_PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Mateus_JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-  <img align="center" alt="Mateus_JAVA SCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Mateus_MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Mateus_PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <!--<img align="center" alt="Mateus_DJANGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />-->
-  <img align="center" alt="Mateus_BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
-  <img align="center" alt="Mateus_ARDUINO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  <img align="center" alt="Mateus_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Mateus_C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align="center" alt="Mateus_LABVIEW" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" />
+  <a href="#">
+    <img align="center" alt="Mateus_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img align="center" alt="Mateus_CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    <img align="center" alt="Mateus_PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+    <img align="center" alt="Mateus_JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+    <img align="center" alt="Mateus_JAVA SCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="Mateus_MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Mateus_PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <!--<img align="center" alt="Mateus_DJANGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />-->
+    <img align="center" alt="Mateus_BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+    <img align="center" alt="Mateus_ARDUINO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+    <img align="center" alt="Mateus_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img align="center" alt="Mateus_C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <img align="center" alt="Mateus_LABVIEW" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" />
+  </a>
 </div>
 
 ### Another habilities
 <div style="display: inline_block; background-color:DodgerBlue;">
-<img align="center" alt="Mateus_PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="center" alt="Mateus_ILLUSTRATOR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="center" alt="Mateus_AFTER EFFECTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+  <a href="#">
+    <img align="center" alt="Mateus_PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+    <img align="center" alt="Mateus_ILLUSTRATOR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+    <img align="center" alt="Mateus_AFTER EFFECTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
+  </a>
 </div>
   
 ##
