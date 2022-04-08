@@ -4,12 +4,9 @@
 - 🌱 I’m currently learning Django
 
 <div style="display: inline_block; vertical-align: top;">
-  <a href="#">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000&custom_title=My%20contribuitions" />
-  </a>
-  <!--<img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=matrodsan&show_owner=true&theme=chartreuse-dark&icon_color=5CDB0B&title_color=66fc03&bg_color=DEG,191c21,333B44" />-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000&custom_title=My%20contribuitions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000" />
 </div>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=66fc03&title_color=66fc03&bg_color=191c21)-->
 
 ### My habilities
 
@@ -44,4 +41,10 @@
   <a href="https://www.linkedin.com/in/mateus-rodrigues-santos-65274594/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:mateusrodriguessantos@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /></a>
   <a href="https://www.behance.net/mateusrodrigu5"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white" /></a>
+</div>
+
+<br>
+
+<div style="display: inline_block; vertical-align: top;">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=Exercicio_SSYS&show_owner=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000" />
 </div>
