@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning Django
 
 <div style="display: inline_block; vertical-align: top;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000&custom_title=My%20contribuitions" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contribuitions" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000" />-->
 </div>
 
 ### My habilities
@@ -46,5 +46,5 @@
 <br>
 
 <div style="display: inline_block; vertical-align: top;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=Exercicio_SSYS&show_owner=true&show_icons=true&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=matrodsan&show_owner=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000" />
 </div>
