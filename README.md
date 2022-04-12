@@ -1,11 +1,9 @@
 ## 👋🏼 Hi, I’m @matrodsan
 - 💼 Working with PHP, a little bit of MySQL and front-end
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
 
 <div style="display: inline_block; vertical-align: top;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contribuitions" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=000000&title_color=66fc03&text_color=000000&bg_color=DEG,b2b2b2,8F8F8F&border_color=000000" />-->
 </div>
 
 ### My habilities
@@ -31,7 +29,9 @@
   <img align="center" alt="Mateus_PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Mateus_ILLUSTRATOR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="Mateus_AFTER EFFECTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-</div>
+</div><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000" />
   
 ##
 <div style="display: inline_block">
@@ -46,5 +46,5 @@
 <br>
 
 <div style="display: inline_block; vertical-align: top;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=matrodsan&show_owner=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=Exercicio_SSYS&show_owner=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000" />
 </div>
