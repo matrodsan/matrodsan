@@ -1,12 +1,11 @@
-## 👋🏼 Hi, I’m @matrodsan
-- 💼 Working with PHP, a little bit of MySQL and front-end
-- 👀 I’m interested in Python
+<h2>&#128075;&#127996; Hi, I’m @matrodsan</h2>
+<ul>
+  <li>&#128188 Working with PHP, a little bit of MySQL and front-end</li>
+  <li>&#128064 I’m interested in Python</li>
+</ul>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contribuitions" />
 
-<div style="display: inline_block; vertical-align: top;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contribuitions" />
-</div>
-
-### My habilities
+## My habilities
 
 <div style="display: inline_block; background-color:DodgerBlue;">
   <img align="center" alt="Mateus_HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
@@ -22,29 +21,23 @@
   <img align="center" alt="Mateus_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Mateus_C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Mateus_LABVIEW" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original-wordmark.svg" />
-</div>
-
-### Another habilities
-<div style="display: inline_block; background-color:DodgerBlue;">
+  <br>
+  <h3>Another habilities</h3>
   <img align="center" alt="Mateus_PHOTOSHOP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
   <img align="center" alt="Mateus_ILLUSTRATOR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
   <img align="center" alt="Mateus_AFTER EFFECTS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" />
-</div><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matrodsan&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&layout=compact&show_icons=true" />
+</div>
   
 ##
-<div style="display: inline_block">
-  <a href="https://api.whatsapp.com/send?phone=5527998175043"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" /></a>
-  <a href="https://www.fb.com/mateusrodriguessantos/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mateusrsantos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mateus-rodrigues-santos-65274594/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-  <a href="mailto:mateusrodriguessantos@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=Microsoft Outlook&logoColor=white" /></a>
-  <a href="https://www.behance.net/mateusrodrigu5"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=Behance&logoColor=white" /></a>
-</div>
-
-<br>
-
-<div style="display: inline_block; vertical-align: top;">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=Exercicio_SSYS&show_owner=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000" />
+<div style="display: inline_block" align="right">
+  <a href="https://api.whatsapp.com/send?phone=5527998175043"><img src="https://img.shields.io/badge/%20-whatsapp-brightgreen?colorA=199447&colorB=25D366&style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.fb.com/mateusrodriguessantos/"><img src="https://img.shields.io/badge/%20-facebook-brightgreen?colorA=135bba&colorB=1877F2&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mateusrsantos/"><img src="https://img.shields.io/badge/%20-instagram-brightgreen?colorA=91293c&colorB=E4405F&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mateus-rodrigues-santos-65274594/"><img src="https://img.shields.io/badge/%20-linkedin-brightgreen?colorA=074685&colorB=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mateusrodriguessantos@hotmail.com"><img src="https://img.shields.io/badge/%20-Outlook-brightgreen?colorA=005799&colorB=0078D4&style=for-the-badge&logo=Microsoft Outlook&logoColor=white"/></a>
+  <a href="https://www.behance.net/mateusrodrigu5"><img src="https://img.shields.io/badge/%20-behance-brightgreen?colorA=1145a6&colorB=1769FF&style=for-the-badge&logo=behance&logoColor=white"/></a>
+  <br><br>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=matrodsan&repo=Exercicio_SSYS&show_owner=true&show_icons=true&theme=graywhite&border_color=000000" />
 </div>
