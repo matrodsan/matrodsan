@@ -1,7 +1,7 @@
 <h2>&#128075;&#127996; Hi, I’m @matrodsan</h2>
 <ul>
-  <li>&#128188 Working with PHP, a little bit of MySQL and front-end</li>
-  <li>&#128064 I’m interested in Python</li>
+  <li>&#128188 Working with React and learning other front-end tools like Angular</li>
+  <li>&#128064 I’m interested in JS based frameworks</li>
 </ul>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contribuitions" />
 
@@ -16,7 +16,7 @@
   <img align="center" alt="Mateus_JQUERY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="Mateus_MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Mateus_PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <!--<img align="center" alt="Mateus_DJANGO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />-->
+  <img align="center" alt="Mateus_ANGULAR" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" alt="Mateus_BOOTSTRAP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img align="center" alt="Mateus_ARDUINO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
   <img align="center" alt="Mateus_C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
