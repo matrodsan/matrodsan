@@ -2,6 +2,7 @@
 <ul>
   <li>&#128188 Working with React and learning other front-end tools like Angular</li>
   <li>&#128064 I’m interested in JS based frameworks</li>
+  <li>&#x1F393 Actually I'm studying at university. The main language that we use is PHP.</li>
 </ul>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matrodsan&count_private=true&show_icons=true&theme=chartreuse-dark&icon_color=ffffff&title_color=66fc03&text_color=ffffff&bg_color=DEG,303133,424547&border_color=000000&custom_title=My%20contribuitions" />
 
